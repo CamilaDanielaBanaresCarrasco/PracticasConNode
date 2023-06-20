@@ -1,0 +1,79 @@
+[
+  {
+    "id": 8255,
+    "uid": "c083352f-366d-4230-8a2d-885a25f18c33",
+    "password": "52fguLP7wV",
+    "first_name": "Izetta",
+    "last_name": "Huels",
+    "username": "izetta.huels",
+    "email": "izetta.huels@email.com",
+    "avatar": "https://robohash.org/deseruntuteum.png?size=300x300&set=set1",
+    "gender": "Bigender",
+    "phone_number": "+683 1-612-730-6119",
+    "social_insurance_number": "420544777",
+    "date_of_birth": "1963-02-05",
+    "employment": {
+      "title": "National Technician",
+      "key_skill": "Work under pressure"
+    },
+    "address": {
+      "city": "West Tommyhaven",
+      "street_name": "Hodkiewicz Ville",
+      "street_address": "749 Erich Mission",
+      "zip_code": "26768-3813",
+      "state": "Colorado",
+      "country": "United States",
+      "coordinates": {
+        "lat": 21.52009698181314,
+        "lng": -107.14573938658445
+      }
+    },
+    "credit_card": {
+      "cc_number": "5187-3091-7055-3506"
+    },
+    "subscription": {
+      "plan": "Standard",
+      "status": "Blocked",
+      "payment_method": "Apple Pay",
+      "term": "Monthly"
+    }
+  },
+  {
+    "id": 641,
+    "uid": "7cb8e246-8969-4960-b49f-1e2a9339e30c",
+    "city": "Wesside",
+    "street_name": "Sima Key",
+    "street_address": "6546 Sanford View",
+    "secondary_address": "Apt. 644",
+    "building_number": "7680",
+    "mail_box": "PO Box 490",
+    "community": "Eagle Acres",
+    "zip_code": "77113-2974",
+    "zip": "13022",
+    "postcode": "10708-4832",
+    "time_zone": "Europe/Vilnius",
+    "street_suffix": "Keys",
+    "city_suffix": "shire",
+    "city_prefix": "South",
+    "state": "Mississippi",
+    "state_abbr": "SC",
+    "country": "Barbados",
+    "country_code": "CX",
+    "latitude": 14.64917791615889,
+    "longitude": -9.86433206188201,
+    "full_address": "66214 Romaine Isle, Franeckiville, ME 52225-2622"
+  },
+  {
+    "id": 3217,
+    "uid": "7967f92a-205e-499f-8703-845c771213ee",
+    "brand": "Birra Moretti",
+    "name": "Arrogant Bastard Ale",
+    "style": "Strong Ale",
+    "hop": "Ultra",
+    "yeast": "3278 - Belgian Lambic Blend",
+    "malts": "Carapils",
+    "ibu": "61 IBU",
+    "alcohol": "6.5%",
+    "blg": "11.8°Blg"
+  }
+]
